@@ -1,6 +1,6 @@
-# Olá, Mundo!
- Primeiro repositorio do curso Git
+# Conversor!
+ Primeiro projeto criado junto com a imersão da Alura
 
-repositorio criado durante uma aula
+ usei os conhecimentos da primeira aula da imersão para criar esse conversor simples
 
-essa linha eu adicionei diretamente no site! OLOKOO
+ achei interresante a ideia, e curti esse primeiro contato com a programação
